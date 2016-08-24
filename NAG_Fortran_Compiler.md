@@ -17,7 +17,7 @@ Unfortunately, the Linux version is command line only and so is not as easy to u
 
 ## Eligibility
 
-All members of the University are eligible to use this software.
+All members of the University for academic work.
 
 ## Versions
 
